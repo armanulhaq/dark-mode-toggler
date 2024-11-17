@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Local environment settings
+.env
+.env.local
+
+# System files
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build output
+dist/
+build/
+out/
+
+# Vite-related cache
+.vite/
+.vitepress/
+
+# Package-lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
