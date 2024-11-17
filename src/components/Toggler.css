@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
+
+body section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 10px 20px;
+    background: transparent;
+    cursor: pointer;
+    border: 0.5 solid black;
+    border-radius: 15px;
+}
+
+section.content h1 {
+    font-size: 5rem;
+    font-family: "Bungee Outline", cursive;
+    line-height: 80px;
+}
