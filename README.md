@@ -5,8 +5,7 @@ A lightweight React app that allows users to toggle between light and dark theme
 ## Features
 - **Light and Dark Themes**: Easily toggle between light and dark modes.
 - **Dynamic Styling**: Background color, text color, and button color adjust seamlessly.
-- **Responsive Design**: Centered content with a polished button design.
-- **Custom Fonts**: Uses the "Bungee Outline" font for a unique aesthetic.
+- **Custom Fonts**: Uses the "Outfit" font for a unique aesthetic.
 
 
 ## Installation
